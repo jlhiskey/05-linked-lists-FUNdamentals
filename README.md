@@ -20,3 +20,5 @@ the command:  npm i
 
 ##License 
 - This project is licensed under the MIT License.
+
+[![Build Status](https://travis-ci.com/jlhiskey/05-linked-lists-FUNdamentals.svg?branch=master)](https://travis-ci.com/jlhiskey/05-linked-lists-FUNdamentals)
